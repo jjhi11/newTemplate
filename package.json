@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.6"
+  },
+  "name": "rockcore-dev",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjhi11/newTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjhi11/newTemplate/issues"
+  },
+  "homepage": "https://github.com/jjhi11/newTemplate#readme",
+  "description": ""
+}
